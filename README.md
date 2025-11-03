@@ -3,11 +3,10 @@
 The below repositry shows a detailed guide to perform physical design of any appilcation code taking CORDIC CORE as an example. I have used gpdk45 as my choice of PDK as it is widely available in any institutions and also its simplicity. The CORDIC (Coordinate Rotation Digital Computer) core is an efficient hardware algorithm for performing complex mathematical computations like trigonometric, hyperbolic, and logarithmic functions without using multipliers. Its simplicity and iterative nature make it ideal for resource-constrained systems in applications such as signal processing, robotics, and communications.
 
 ## Basic Details 🚀
-#### -  Name: Akash V Kashyap
-#### - College: Dayananda Sagar College of Engineering, Bengaluru-560078
-#### - Email ID: akashvkashyap@gmail.com
-#### - GitHub Profile: [Akash-V-Kashyap](https://github.com/Akash-V-Kashyap) 
-#### - LinkedIN Profile: [Akash V Kashyap](https://www.linkedin.com/in/akash-v-kashyap-336003261/)
+#### -  Name: Kalasani Dhanush Reddy
+#### - College: Indian Institute of Information Technology, Design and Manufacturing Kurnool
+#### - Email ID: 123ec0010@iiitk.ac.in
+
 
 ##
 ## **Table of Contents**
